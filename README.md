@@ -1,3 +1,5 @@
+Based on an article @ https://thecodinganalyst.github.io/knowledgebase/create-a-new-nextjs-site-with-typescript-materialui-and-cypress/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
